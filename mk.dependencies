@@ -1,0 +1,10 @@
+[
+    {
+        "repository": "android_vendor_samsung_p4notelte",
+        "target_path": "vendor/samsung/p4notelte"
+    },
+    {
+        "repository": "android_vendor_samsung_p4notelte-common",
+        "target_path": "vendor/samsung/p4notelte-common"
+    }
+]
